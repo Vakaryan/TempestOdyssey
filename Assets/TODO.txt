@@ -1,0 +1,5 @@
+lvl 1-2-3 bosses
+shield drops/system
+sound when dead
+random message (score of 9000, boss defeated)
+konami code
